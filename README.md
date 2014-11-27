@@ -8,11 +8,12 @@ To run:
 GRID should be formatted as a list of lists.<br/>
 MIN\_WORD\_LENGTH is simply an integer.
 
-For example, for the grid below (with minimum word length = 3):<br/>
-S T N G<br/>
-E I A E<br/>
-D R L S<br/>
-S E P O
+For example, for the grid below (with minimum word length = 3):
+
+    S T N G
+    E I A E
+    D R L S
+    S E P O
 
 Example input:
 
